@@ -1,0 +1,6 @@
+out
+.DS_Store
+venv
+playground.ipynb
+.idea
+__pycache__
