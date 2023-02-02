@@ -18,7 +18,7 @@ torch, matplotlib
 After only 500 epochs the policy yields pretty good results. Avg rewards are evaluated playing vs random
 opponent. Winning reward is 10.0.
 
-The model does not play fully optimal (yet). While it knows the obvios moves it does not know the infamous fork (example 3).
+The model does not play fully optimal (yet). While it knows the obvios moves it does not know the infamous fork (example 2).
 I think with enough training and probably a better way of collecting samples and better hyperparameters a fully optimal policy can be achieved. 
 See some examples below.
 
